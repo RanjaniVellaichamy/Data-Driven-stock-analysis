@@ -43,13 +43,21 @@ This project provides a comprehensive and interactive dashboard to analyze the p
 
 stock-analysis/
 ├── data/
+
 │   ├── 2023-10/
+
 │   └── sector_mapping.csv
+
 ├── app.py
+
 ├── Extractdata.py
+
 ├── utils/
+
 │   └── helpers.py
+
 ├── README.md
+
 └── requirements.txt
 
 
