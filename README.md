@@ -42,6 +42,7 @@ This project provides a comprehensive and interactive dashboard to analyze the p
 📁 Project Structure
 
 stock-analysis/
+
 ├── data/
 
 │   ├── 2023-10/
